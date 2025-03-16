@@ -1,6 +1,5 @@
 /target
 vendor/
-*.wav
 *.DS_store
 .venv
 venv/
